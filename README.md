@@ -10,15 +10,15 @@ How to run Rose Rocket GUI.
 3. Compile and run the Java class by inputting java GUI.java
 4. The application will pop up!
 # Application Running
-1. Application will shohw <img src="Pick Up Task.png">
-2. Menu bar includes "File" and "Help" 
-3. Menu "File" includes Menu Items - New PickUp, New DropOff, New Driver, Delete Task *
-4. Menu "Help" includes Menu Items - Tutorial and About. *
-5. Dispatchers can create tasks by clicking the "Create +" Button 
-6. When the "Create +" Button is clicked "Create Task" Pane will show up //image
+1. Application will shohw <img src="Application.png">
+2. Menu bar includes "File" and "Help" <img src="File Menubar.png">  <img src="Help Menubar.png">
+3. Menu "File" includes Menu Items - New PickUp, New DropOff, New Driver, Delete Task * 
+4. Menu "Help" includes Menu Items - Tutorial and About. * <img src="Abou MenuFile.png">
+5. Dispatchers can create tasks by clicking the "Create +" Button  
+6. When the "Create +" Button is clicked "Create Task" Pane will show up  <img src="Create Task Button.png">
 7. In the pop up windown -  3 fields can be completed, one ComboBox, two TextFields. 
-8. Fill out the fields to populate the schedule with new tasks (Pick Up, Drop Off, Lunch, Other) *
-9. Dispatchers can view specific drivers task for the week by selecting a driver in the ComboCox *
+8. Fill out the fields to populate the schedule with new tasks (Pick Up, Drop Off, Lunch, Other) * <img src = "Jeff Wingers schedule.png">
+9. Dispatchers can view specific drivers task for the week by selecting a driver in the ComboCox *  <img src="PickUp Task.png">
 10. End of Application use
 
 * Not coompleted (explanation in order) *
