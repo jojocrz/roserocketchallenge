@@ -10,7 +10,7 @@ How to run Rose Rocket GUI.
 3. Compile and run the Java class by inputting java GUI.java
 4. The application will pop up!
 # Application Running
-1. Application will shohw //image
+1. Application will shohw <img src="Pick Up Task.png">
 2. Menu bar includes "File" and "Help" 
 3. Menu "File" includes Menu Items - New PickUp, New DropOff, New Driver, Delete Task *
 4. Menu "Help" includes Menu Items - Tutorial and About. *
