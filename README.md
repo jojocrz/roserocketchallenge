@@ -17,8 +17,8 @@ How to run Rose Rocket GUI.
 5. Dispatchers can create tasks by clicking the "Create +" Button  
 6. When the "Create +" Button is clicked "Create Task" Pane will show up  <img src="Create Task Button.png">
 7. In the pop up windown -  3 fields can be completed, one ComboBox, two TextFields. 
-8. Fill out the fields to populate the schedule with new tasks (Pick Up, Drop Off, Lunch, Other) * <img src = "Jeff Wingers schedule.png">
-9. Dispatchers can view specific drivers task for the week by selecting a driver in the ComboCox *  <img src="Pick Up Task.png">
+8. Fill out the fields to populate the schedule with new tasks (Pick Up, Drop Off, Lunch, Other) * <img src="Pick Up Task.png">
+9. Dispatchers can view specific drivers task for the week by selecting a driver in the ComboCox *  <img src = "Jeff Wingers schedule.png">
 10. End of Application use
 
 * Not coompleted (explanation in order) *
